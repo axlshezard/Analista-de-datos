@@ -1,0 +1,5 @@
+a = int(input("Ingresa primer numero"))
+b = int(input("Ingresa segundo numero"))
+c = int(input("Ingresa tercer numero"))
+media =((a+b+c)/3)
+print(media)

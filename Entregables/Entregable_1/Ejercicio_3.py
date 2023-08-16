@@ -1,0 +1,6 @@
+h = int(input("Ingresa la altura"))
+b = int(input("Ingresa la base"))
+perimetro = (h+h+b+b)
+area = (h*b)
+print(perimetro)
+print(area) 

@@ -15,3 +15,5 @@ def juego_multiplicar(cont:int, mult:tuple)->int:
 
 puntos = reduce(juego_multiplicar,listmultplicaciones,0)    
 print(f"tu puntuacion es {puntos}")
+
+
